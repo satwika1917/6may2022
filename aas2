@@ -1,0 +1,7 @@
+s={1:[02,'satwika','female','MECS','pass'],2:[12,'mohit','MALE','MpCS','PASS'],3:[9,'sushma','FEMALE','McCS','fail'],4:[26','valli','FEMALE','BBA','pass'],5:[41,'SATYA','MALE','MPC','fail']}
+x=int(input('Enter the number: '))
+print('STUDENT ROLL NUMBER : 's[x][0])
+print('NAME OF THE STUDENT: 's[x][1])
+print('GENDER : 's[x][2])
+print('GROUP : 's[x][3])
+print('RESULT: 's[x][4])
